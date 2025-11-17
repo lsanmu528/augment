@@ -2,10 +2,7 @@
 
 所有清理工具均已打包发布在：
 
-👉 Releases · v1.0.0
-内容说明
-
-在 v1.0.0 Release 中，你可以找到：
+👉 Releases · v1.0.0内容说明，在 v1.0.0 Release 中，你可以找到：
 
 Windows 清理工具
 
